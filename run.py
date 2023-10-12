@@ -317,4 +317,4 @@ if PRESERVE_COLOR == 'True':
     show(g_preserve)
     saveimg(g_preserve, 333)  # out333 = final with preseved colors
 
-print('finish')
+print('this test finished')
